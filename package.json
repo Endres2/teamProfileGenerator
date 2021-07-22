@@ -1,0 +1,33 @@
+{
+  "name": "teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "Creates html for a team group",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Endres2/teamProfileGenerator.git"
+  },
+  "keywords": [
+    "node.js",
+    "teamBuilder",
+    "html"
+  ],
+  "author": "Andres Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Endres2/teamProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/Endres2/teamProfileGenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
